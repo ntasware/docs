@@ -6,13 +6,13 @@
 
 ![](./img/applog/01.png)
 
-- （1）工程管理，参考[工程简介](http://localhost:3000/#/zh-cn/analysis/project?id=工程简介);
-- （2）收藏的查询，参考[查询简介;](http://localhost:3000/#/zh-cn/analysis/query?id=查询简介)
-- （3）设置显示列，参考[设置显示列](http://localhost:3000/#/zh-cn/analysis/flow?id=设置显示列);
+- （1）工程管理，参考[工程简介](zh-cn/analysis/project?id=工程简介);
+- （2）收藏的查询，参考[查询简介;](zh-cn/analysis/query?id=查询简介)
+- （3）设置显示列，参考[设置显示列](zh-cn/analysis/flow?id=设置显示列);
 - （4）导出pcap文件，导出当前pcap文件;
-- （5）保存查询，参考[新建查询;](http://localhost:3000/#/zh-cn/analysis/query?id=新建查询)
+- （5）保存查询，参考[新建查询;](zh-cn/analysis/query?id=新建查询)
 - （6）当前pcap文件的开始与结束时间;
-- （7）查询条件输入框，参考[查询条件输入框;](http://localhost:3000/#/zh-cn/analysis/query?id=查询条件输入框)
+- （7）查询条件输入框，参考[查询条件输入框;](zh-cn/analysis/query?id=查询条件输入框)
 - （8）**查询**按钮；
 - （9）选择**已收藏的查询**语句；
   - 下拉选择已收藏的查询语句，页面会按照查询条件查询符合条件的记录。
