@@ -20,7 +20,3 @@
 ## 指标指引
 
 操作参考[指标指引](zh-cn/analysis/statInfo?id=指标指引)
-
-## 指标图表操作
-
-操作参考[指标图表操作](zh-cn/analysis/statInfo?id=指标图表操作)

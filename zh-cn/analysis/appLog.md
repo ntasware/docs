@@ -47,11 +47,16 @@
 
 ### 图形缩放
 
-参考[缩放图表（横轴为时间）](http://localhost:3000/#/zh-cn/analysis/statInfo?id=缩放图表（横轴为时间）)
+参考[缩放图表（横轴为时间）](zh-cn/analysis/statInfo?id=缩放图表（横轴为时间）)
 
 ### 图形操作
 
-分别参考[全屏查看](http://localhost:3000/#/zh-cn/analysis/statInfo?id=全屏查看)，[打印图表](http://localhost:3000/#/zh-cn/analysis/statInfo?id=打印图表)，[下载图片](http://localhost:3000/#/zh-cn/analysis/statInfo?id=下载图片)，[下载pdf文档](http://localhost:3000/#/zh-cn/analysis/statInfo?id=下载pdf文档)，[下载svg矢量图](http://localhost:3000/#/zh-cn/analysis/statInfo?id=下载svg矢量图)
+操作参考：
+- [全屏查看](zh-cn/analysis/statInfo?id=全屏查看)；
+- [打印图表](zh-cn/analysis/statInfo?id=打印图表)；
+- [下载图片](zh-cn/analysis/statInfo?id=下载图片)；
+- [下载pdf文档](zh-cn/analysis/statInfo?id=下载pdf文档)；
+- [下载SVG矢量图](zh-cn/analysis/statInfo?id=下载SVG矢量图)；
 
 ## 应用日志列表显示
 
@@ -65,11 +70,11 @@
 
 ### 作为过滤条件选中
 
-参考[作为过滤条件选中](http://localhost:3000/#/zh-cn/analysis/flow?id=作为过滤条件选中)；
+参考[作为过滤条件选中](zh-cn/analysis/flow?id=作为过滤条件选中)；
 
 ### 打开pcap分析
 
-参考[打开包解析](http://localhost:3000/#/zh-cn/analysis/flow?id=打开包解析)；
+参考[打开包解析](zh-cn/analysis/flow?id=打开包解析)；
 
 ### 打开流量分析
 

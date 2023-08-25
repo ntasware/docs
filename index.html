@@ -7,36 +7,60 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <!--<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css">-->
 
 </head>
 <body>
   <nav>
-	<a href="#/">首页</a>
+	<a href="#/readme">首页</a>
   </nav>
   <div id="app"></div>
   
   <script>
 	window.$docsify = {
+	
+	  //logo: './favicon.ico',
+	  
+	  name: '<span>NTAS用户手册</span>',
+
+	  //  封面
+	  coverpage: true,
+	  onlyCover: false,
+
 	  search: 'auto', // 默认值,查询栏
 	  // 完整配置参数
 	  search: {
 	  	placeholder: '请输入搜索关键字',
-	  	noData: '没有搜到呦!',
-	  	depth:2
+	  	noData: '找不到结果!',
+	  	depth:6
 	  },
+
 	  // 定制侧边栏
 	  loadSidebar: true,
 	  // 显示目录层级数量
 	  subMaxLevel: 4,
+	  
+	  //  分页导航
+ 	  pagination: {
+		previousText: '上一章节',
+		// or
+		nextText: {
+		  '/en/': 'NEXT',
+		  '/': '下一章节'
+		},
+		crossChapter: true,
+		crossChapterText: true,
+      }, 
+	  auto2top: true,
+
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  
+
   <!-- 搜索插件js  -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  
+  <!-- 分页导航js  -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   
 </body>
 </html>

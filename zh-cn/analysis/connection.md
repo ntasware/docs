@@ -39,6 +39,13 @@
 操作参考[指标指引](zh-cn/analysis/statInfo?id=指标指引)
 
 ## 指标图表操作
+![](./img/connect/02.png)
 
-操作参考[指标图表操作](zh-cn/analysis/statInfo?id=指标图表操作)
+操作参考：
+- [缩放图表](zh-cn/analysis/statInfo?id=缩放图表（横轴为时间）)；
+- [全屏查看](zh-cn/analysis/statInfo?id=全屏查看)；
+- [打印图表](zh-cn/analysis/statInfo?id=打印图表)；
+- [下载图片](zh-cn/analysis/statInfo?id=下载图片)；
+- [下载pdf文档](zh-cn/analysis/statInfo?id=下载pdf文档)；
+- [下载SVG矢量图](zh-cn/analysis/statInfo?id=下载SVG矢量图)；
 

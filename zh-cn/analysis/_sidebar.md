@@ -1,8 +1,7 @@
 <!-- docs/_sidebar.md --> 
 
-- [首页](/)
+- [首页](/readme)
 - [pcap综合分析](/zh-cn/analysis/overview)
-  * [概述](zh-cn/analysis/overview) 
   * [工程管理](/zh-cn/analysis/project)
   * [收藏的查询](/zh-cn/analysis/query)
   * [分析类型统计概要](zh-cn/analysis/statInfo) 
