@@ -3,4 +3,4 @@
 ![logo](favicon.ico) 
 
 
-- #  [NTAS用户手册-Get Started](home)
+- #  [NTAS用户手册-Get Started](/Home)
