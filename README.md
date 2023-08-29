@@ -5,7 +5,7 @@
 > ntas是一套开源网络流量分析平台。
 
 ## 文档
-[https://sys.higinet.com.cn:8388](https://sys.higinet.com.cn:8388)
+[https://ntasware.github.io/docs/#/](https://ntasware.github.io/docs)
 
 
  ## 反馈
