@@ -9,4 +9,4 @@
 
 
  ## 反馈
-如果大家在使用过程中，遇到了些问题，欢迎联系我们，我们将根据大家的反馈，更好地为大家服务。
+如果大家在使用过程中，遇到了些问题，欢迎联系我们[https://ntas.higinet.com.cn/contact](https://ntas.higinet.com.cn/contact)，我们将根据大家的反馈，更好地为大家服务。
