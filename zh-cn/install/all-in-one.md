@@ -47,5 +47,5 @@ cd /higinet
 
 ## 3.访问web
 
-https://ip:8080
+使用浏览器访问：https://ip
 
