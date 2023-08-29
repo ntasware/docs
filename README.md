@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./logo.png">
-</p>
+[example](./log.png)
 
 > ntas是一套开源网络流量分析平台。
 
