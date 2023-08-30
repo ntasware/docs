@@ -1,12 +1,20 @@
 # All-in-One 快速部署
 
+## 简介
+
+ntas All-in-One快速部署支持部署在ubuntu 22.04.3操作系统上，通过一键安装、一键启动即可快速部署一套ntas。
+
 ## 准备工作
 
 ### 硬件需求
 
-- 内存 32G
-- CPU 16核，支持AVX
-- 硬盘 /higinet 320G
+| <div style="width:200px;text-align:center">需求</div> | <div style="width:500px;text-align:center">参数</div> |
+| :--: | :------------ |
+| 内存 |      32G      |
+| CPU  | 16核，支持AVX |
+| 磁盘 | 320G |
+
+
 
 ### 软件要求
 

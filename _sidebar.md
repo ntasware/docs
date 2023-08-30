@@ -2,7 +2,7 @@
 
   
 
-  - [all-in-one](all-in-one.md)
+  - [All-in-One快速部署](all-in-one.md)
   
 - 通用功能
 
