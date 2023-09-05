@@ -9,10 +9,10 @@ ntas All-in-One快速部署支持部署在ubuntu 22.04.3操作系统上，通过
 ### 硬件需求
 
 | <div style="width:200px;text-align:center">需求</div> | <div style="width:500px;text-align:center">参数</div> |
-| :--: | :------------ |
-| 内存 |      32G      |
-| CPU  | 16核，支持AVX |
-| 磁盘 | 320G |
+| :---------------------------------------------------: | :---------------------------------------------------- |
+|                         内存                          | 32G                                                   |
+|                          CPU                          | 16核，支持AVX                                         |
+|                         磁盘                          | ntas数据盘建议2T，至少500G，挂载盘符/higinet          |
 
 
 
@@ -24,11 +24,14 @@ ntas All-in-One快速部署支持部署在ubuntu 22.04.3操作系统上，通过
 
 ### 安装步骤
 
+上传ntas安装包到/higinet目录下。
+
 ```shell
 sudo su
+cd /higinet
 tar xzvf ntasware-xxx.tar.gz
 cd ntasware
-./setup.sh
+source setup.sh
 ```
 
 
